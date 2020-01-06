@@ -27,3 +27,14 @@ header #header-bar > .row {
     border-bottom: 2px solid var(--color-1); border-right: 2px solid var(--color-1) 
 
 }
+
+
+
+body {
+
+    height: auto !important;
+
+    background: ##DAD9FF;    /* 배경색 코드 입력 */
+
+
+}
